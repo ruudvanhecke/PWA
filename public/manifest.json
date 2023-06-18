@@ -1,6 +1,8 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "PWA Opdracht",
+  "name": "Verschillende testen PWA",
+  "description": "Ik test enkele pwa features! probeer het ook zeker offline. ",
+  "author": "Ruben Van Hecke",
   "icons": [
     {
       "src": "favicon.ico",

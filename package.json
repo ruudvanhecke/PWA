@@ -27,6 +27,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
+    "bs":   "npm run build && serve build -p 5000",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
